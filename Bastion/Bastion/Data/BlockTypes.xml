@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BlockTypes>
+  <BlockType name ="Air">
+    <Walkable>false</Walkable>
+    <Texture>Air</Texture>
+  </BlockType>
+  <BlockType name ="Stone">
+    <Walkable>false</Walkable>
+    <Texture>Stone</Texture>
+  </BlockType>
+  <BlockType name ="Surface">
+    <Walkable>true</Walkable>
+    <Texture>Surface</Texture>
+  </BlockType>
+  <BlockType name ="Water">
+    <Walkable>false</Walkable>
+    <Texture>Water</Texture>
+  </BlockType>
+  <BlockType name ="Dirt">
+    <Walkable>false</Walkable>
+    <Texture>Dirt</Texture>
+  </BlockType>
+</BlockTypes>

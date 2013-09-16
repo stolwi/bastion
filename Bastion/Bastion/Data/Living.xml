@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Livings>
+  <Living name="Bob">
+    <CanWalk>true</CanWalk>
+    <Texture>X</Texture>
+    <StartPosition X="24" Y="24" Z="1"/>
+  </Living>
+</Livings>

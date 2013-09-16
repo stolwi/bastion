@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StartMaps>
+  <StartMap name="Test" xsize="50" ysize="50" zsize="5">
+    <MapFill Solid="true">
+      <From X="0" Y="0" Z="0"/>
+      <To X="49" Y="49" Z="4"/>
+      <BlockType>Air</BlockType>
+    </MapFill>
+    <MapFill Solid="true">
+      <From X="0" Y="0" Z="1"/>
+      <To X="49" Y="49" Z="1"/>
+      <BlockType>Surface</BlockType>
+    </MapFill>
+    <MapFill Solid="false">
+      <From X="0" Y="0" Z="1"/>
+      <To X="49" Y="49" Z="1"/>
+      <BlockType>Stone</BlockType>
+    </MapFill>
+    <MapFill Solid="true">
+      <From X="10" Y="30" Z="1"/>
+      <To X="25" Y="45" Z="1"/>
+      <BlockType>Water</BlockType>
+    </MapFill>
+    <MapFill Solid="false">
+      <From X="9" Y="29" Z="1"/>
+      <To X="26" Y="46" Z="1"/>
+      <BlockType>Dirt</BlockType>
+    </MapFill>
+    <MapFill Solid="false">
+      <From X="26" Y="10" Z="1"/>
+      <To X="26" Y="28" Z="1"/>
+      <BlockType>Dirt</BlockType>
+    </MapFill>
+    <MapFill Solid="false">
+      <From X="26" Y="28" Z="1"/>
+      <To X="40" Y="28" Z="1"/>
+      <BlockType>Dirt</BlockType>
+    </MapFill>
+    <MapFill Solid="false">
+      <From X="35" Y="3" Z="1"/>
+      <To X="35" Y="27" Z="1"/>
+      <BlockType>Dirt</BlockType>
+    </MapFill>
+    <MapFill Solid="false">
+      <From X="30" Y="1" Z="1"/>
+      <To X="30" Y="22" Z="1"/>
+      <BlockType>Dirt</BlockType>
+    </MapFill>
+    <MapFill Solid="false">
+      <From X="1" Y="30" Z="1"/>
+      <To X="8" Y="30" Z="1"/>
+      <BlockType>Dirt</BlockType>
+    </MapFill>
+  </StartMap>
+</StartMaps>

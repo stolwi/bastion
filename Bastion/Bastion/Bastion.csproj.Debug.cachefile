@@ -1,0 +1,11 @@
+Content\Blocks\Stone.xnb
+Content\Blocks\Dirt.xnb
+Content\Blocks\Air.xnb
+Content\Blocks\Water.xnb
+Content\Blocks\Surface.xnb
+Content\Livings\X.xnb
+Content\UI\BlankBackground.xnb
+Content\Font\Arial.xnb
+Data\BlockTypes.xml
+Data\Living.xml
+Data\StartMap.xml
